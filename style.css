@@ -1,0 +1,107 @@
+body{margin: 0;
+font-family: "Poppins",sans-serif;
+font-size: 16px;
+line-height: 1.5;}
+.menu {background-color: #45015d;
+width: 150px; 
+height: 100%;
+position: fixed;
+top: 0;
+left: 0;
+padding: 10px 20px;
+border-radius: 10px;
+margin: 10px;}
+.menu a{color: white;
+text-decoration: none;
+padding: 8px 16px;
+box-sizing: border-box;
+display: block;}
+.page1{margin-left: 360px;
+margin-right: 30px;
+margin-top: 80px;}
+hr{width: 100%;
+border:5px solid #45015d;
+border-radius: 4px;
+margin: 20px 0;}
+.images img{width: 45%;
+border-radius: 10px;
+margin: 5px;
+opacity: 0.6;}
+h1{font-size: 64px;
+font-weight: 400;}
+h2{color: #45015d;
+font-size: 48px;
+font-weight: 400;
+margin: 10px 0;}
+.member img{border-radius: 10px;
+width: 100%;}
+.member .block{background-color: #f1f1f1;
+border-radius: 5px;
+padding: 2px 16px 5px;}
+.member{padding: 8px 8px;
+width: 25%;
+display: inline-block;
+box-sizing: border-box;}
+.para{color: grey;}
+.tariff{width: 49%;
+padding: 0 8px;
+display: inline-block;
+text-align: center;
+min-width: 150px;
+box-sizing: border-box;}
+.tariff ul{background-color: #f1f1f1;
+border-radius: 10px;
+margin: 0;
+padding: 0;}
+.tariff li{list-style-type: none;
+padding: 15px 0;
+border-bottom: 1px solid #dddddd;}
+.tariff .tariffname{background-color: #45015d;
+color: white;
+border-radius: 10px;
+font-size: 24px;
+padding: 35px 0;}
+.tariff .prise{font-size: 30px;
+font-weight: 400;}
+.tariff .per{opacity: 0.7;}
+.tariff button{background-color: white;
+color: #45015d;
+border-radius: 25px;
+border:none;
+padding: 15px 20px;
+font-size: 16px;}
+.tariff button:hover{background-color: #45015d;
+color: white;
+cursor: pointer;}
+.pro .tariffname1{background-color: #FF4500;
+color: white;
+border-radius: 25px;
+border: none;
+padding: 35px 0px;
+font-size: 24px;}
+.pro button{background-color: #FF4500;
+color: white;
+border-radius: 25px;
+border:none;
+padding: 15px 20px;
+font-size: 16px;}
+.pro button:hover{background-color: white;
+color: #FF4500;
+cursor: pointer;}
+.contact button{background-color: #45015d;
+color: white;
+border-radius: 25px;
+border:none;
+padding: 15px 20px;
+font-size: 16px;
+width: 100%;}
+.contact button:hover{background-color: white;
+color: #45015d;
+cursor: pointer;}
+.contact input{border: 1px solid grey;
+padding: 8px;
+width: 100%;
+font-size: 16px; }
+.padval{background-color: #c0c0c0;
+color: black;
+padding: 5px 35%;}
